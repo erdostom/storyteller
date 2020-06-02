@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/storyteller/static/css/main.e0e12ee4.chunk.css",
+    "main.js": "/storyteller/static/js/main.5ce052c9.chunk.js",
+    "main.js.map": "/storyteller/static/js/main.5ce052c9.chunk.js.map",
+    "runtime-main.js": "/storyteller/static/js/runtime-main.1b45ad63.js",
+    "runtime-main.js.map": "/storyteller/static/js/runtime-main.1b45ad63.js.map",
+    "static/js/2.87f497ca.chunk.js": "/storyteller/static/js/2.87f497ca.chunk.js",
+    "static/js/2.87f497ca.chunk.js.map": "/storyteller/static/js/2.87f497ca.chunk.js.map",
+    "index.html": "/storyteller/index.html",
+    "precache-manifest.6aaf51e27146d8ae3f733fcf3650d339.js": "/storyteller/precache-manifest.6aaf51e27146d8ae3f733fcf3650d339.js",
+    "service-worker.js": "/storyteller/service-worker.js",
+    "static/css/main.e0e12ee4.chunk.css.map": "/storyteller/static/css/main.e0e12ee4.chunk.css.map",
+    "static/js/2.87f497ca.chunk.js.LICENSE.txt": "/storyteller/static/js/2.87f497ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b45ad63.js",
+    "static/js/2.87f497ca.chunk.js",
+    "static/css/main.e0e12ee4.chunk.css",
+    "static/js/main.5ce052c9.chunk.js"
+  ]
+}
